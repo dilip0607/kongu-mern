@@ -37,3 +37,12 @@ else
     console.log("a is not equal to b");
 }
 console.log((a!=b)?"a is equal to b":"a is not equal to b")
+
+a=8
+if (a%2==0)
+    {
+    console.log("its an even number")
+}
+else{
+    console.log("its an odd number ")
+}
